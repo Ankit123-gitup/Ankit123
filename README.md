@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=ad16808&linkedin=https://www.linkedin.com/in/animesh-das-972162213/&twitter=ad16808"/>
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=ad16808&linkedin=https://https://www.linkedin.com/in/ankitkumar0704"/>
 
 - Pronouns: <img src="https://raw.githubusercontent.com/ashwinexe/ColoredBadges/master/svg/pronouns/hehim.svg">
 - Hackathon Enthusiast Person :smile:
