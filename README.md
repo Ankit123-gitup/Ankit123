@@ -48,10 +48,10 @@
 <a href="https://twitter.com/ad16808">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 </a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/animesh-das-972162213//">
+<a href="https://www.linkedin.com/in/ankitkumar0704//">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
 </a>
-<a href="mailto:animesh16808@gmail.com">
+<a href="mailto:ak847332@gmail.com">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
